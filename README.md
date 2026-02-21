@@ -6,7 +6,7 @@ Welcome to my Python project hub! This repository is a collection of tools and a
 
 | Project | Description | Key Tech / Concepts |
 | :--- | :--- | :--- |
-| **Secret Cipher** | An "Enigma" style tool that encodes/decodes messages using a custom Shift & Pad algorithm. | String Slicing, `random`, Algorithmic Logic |
+| **Secret Code** | An "Enigma" style tool that encodes/decodes messages using a custom Shift & Pad algorithm. | String Slicing, `random`, Algorithmic Logic |
 | **Task Manager** | A CLI productivity app to manage daily tasks with status tracking. | CRUD, `tabulate`, Dictionary Manipulation |
 | **Student Grades** | A utility for calculating and tracking academic performance records. | Math logic, Lists, User Input Validation |
 
